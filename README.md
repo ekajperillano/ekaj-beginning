@@ -1,0 +1,2 @@
+# ekaj-beginning
+sample project
